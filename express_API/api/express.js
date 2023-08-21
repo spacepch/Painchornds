@@ -1,5 +1,5 @@
 import express from "express";
-import { getqqAPI, getbiliAPI, getGithubAPI, getphoneAPI, getBiliUserAPI, getqqPhoneAPI } from "./api/index.js";
+import { getqqAPI, getbiliAPI, getGithubAPI, getphoneAPI, getBiliUserAPI, getqqPhoneAPI } from "./index.js";
 
 const app = express();
 
