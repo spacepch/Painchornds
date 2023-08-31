@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkppshome"]=self["webpackChunkppshome"]||[]).push([[294],{5294:function(e,s,n){n.r(s),n.d(s,{default:function(){return v}});var t=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,s=e._self._c;return s("div",[s("h3",[e._v("欢迎参观"),s("em",[e._v("ppshome")]),e._v("主页！")]),s("h4",[e._v("本站接口部署在vercel serverless，建议使用vpn！")]),s("h4",{staticClass:"tip"},[e._v("↖左上角打开菜单")])])}],u={name:"mu-home"},h=u,l=n(1001),p=(0,l.Z)(h,t,r,!1,null,"d2d5e284",null),v=p.exports}}]);
+//# sourceMappingURL=294.c82dff15.js.map
